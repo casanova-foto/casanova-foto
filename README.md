@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @casanova-foto
-- 📫 How to reach us: informatica@casanovafoto.com
+- :e-mail: How to reach us: informatica@casanovafoto.com
